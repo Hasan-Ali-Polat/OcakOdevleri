@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\OcakÖdevleri\OcakÖdevleri\bin\Debug\net8.0\OcakÖdevleri.exe
+C:\Users\user\source\repos\OcakÖdevleri\OcakÖdevleri\bin\Debug\net8.0\OcakÖdevleri.deps.json
+C:\Users\user\source\repos\OcakÖdevleri\OcakÖdevleri\bin\Debug\net8.0\OcakÖdevleri.runtimeconfig.json
+C:\Users\user\source\repos\OcakÖdevleri\OcakÖdevleri\bin\Debug\net8.0\OcakÖdevleri.dll
+C:\Users\user\source\repos\OcakÖdevleri\OcakÖdevleri\bin\Debug\net8.0\OcakÖdevleri.pdb
+C:\Users\user\source\repos\OcakÖdevleri\OcakÖdevleri\obj\Debug\net8.0\OcakÖdevleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\OcakÖdevleri\OcakÖdevleri\obj\Debug\net8.0\OcakÖdevleri.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\OcakÖdevleri\OcakÖdevleri\obj\Debug\net8.0\OcakÖdevleri.AssemblyInfo.cs
+C:\Users\user\source\repos\OcakÖdevleri\OcakÖdevleri\obj\Debug\net8.0\OcakÖdevleri.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OcakÖdevleri\OcakÖdevleri\obj\Debug\net8.0\OcakÖdevleri.dll
+C:\Users\user\source\repos\OcakÖdevleri\OcakÖdevleri\obj\Debug\net8.0\refint\OcakÖdevleri.dll
+C:\Users\user\source\repos\OcakÖdevleri\OcakÖdevleri\obj\Debug\net8.0\OcakÖdevleri.pdb
+C:\Users\user\source\repos\OcakÖdevleri\OcakÖdevleri\obj\Debug\net8.0\OcakÖdevleri.genruntimeconfig.cache
+C:\Users\user\source\repos\OcakÖdevleri\OcakÖdevleri\obj\Debug\net8.0\ref\OcakÖdevleri.dll
